@@ -189,6 +189,7 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
+      langar: ['Langar']
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],

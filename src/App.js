@@ -1,7 +1,10 @@
+import NavigationBar from "./Components/NavigationBar"
 
 function App() {
   return (
-    <h1>Hello this is the main page.</h1>
+    <div>
+      <NavigationBar />
+    </div>
   );
 }
 
